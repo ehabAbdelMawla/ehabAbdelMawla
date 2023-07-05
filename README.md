@@ -7,9 +7,10 @@
 
 
 
-- 💻 I’m currently working on **Meals Prediction App**
+- 💻 I’m currently working on **Yummy App**
 
-- 💭 Ask me about **React, Vue, JavaScript And Java SE**
+
+- 💭 Ask me about **React, Vue, Angulat,NextJs, NodeJs, NestJs JavaScript And Java SE**
 
 - 🎥 I publish videos in my [Youtube Chennel](https://www.youtube.com/channel/UCnoe7bD7w2fWYlNzqY3qjLA)
 
